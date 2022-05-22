@@ -1,0 +1,39 @@
+#main{
+    text-align: center;
+}
+#instructions{
+    font-style: italic;
+    font-size: 1.5em;
+}
+    h1{
+    color: blue;
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9{
+    height: 40px;
+    width: 100px;
+    margin: auto;
+    border-radius: 5px;
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#but{
+   width: 100px;
+   height: 30px; 
+   border-radius: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: rgb(240, 128, 128);
+   box-sizing: border-box;
+   border: 4px;
+   font-size: 1em;
+   cursor: pointer;
+    color: white;
+}
+#reset{
+    font-family: Verdana,Geneva, Tahoma, sans-serif;
+ 
+        color: dodgerblue;
+        font-size: 20px;
+}
